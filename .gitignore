@@ -1,0 +1,17 @@
+# tmp files
+*.log
+*~
+
+# local files
+node_modules
+
+bower_components
+
+dist
+
+# ide files
+*.iml
+.idea
+
+# vim files
+.*.swp
